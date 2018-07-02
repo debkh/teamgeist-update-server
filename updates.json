@@ -1,7 +1,7 @@
 {
   "linux-x64-prod": {
-    "update": "",
-    "install": "",
+    "update": "https://github.com/debkh/teamgeist-update-server/releases/download/2.5.2/Teamgeist_2.5.2_amd64.deb",
+    "install": "https://github.com/debkh/teamgeist-update-server/releases/download/2.5.2/Teamgeist_2.5.2_amd64.deb",
     "version": "2.5.2"
   }
 }
